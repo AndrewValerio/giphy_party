@@ -50,7 +50,6 @@ function displayResults(data){
     });
 }
 
-
 //resultButton.addEventListener('click', (e) => {
    // e.preventDefault()
     //getResults();});
