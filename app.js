@@ -50,6 +50,7 @@ function displayResults(data){
 
 function showMore(data){
     movePage = pageNumber * limit;
+    console.log("movePage value: " + movePage);
     getResults();
 }
 
